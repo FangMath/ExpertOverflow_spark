@@ -11,5 +11,14 @@ Analyze 20G posts data from 2,000,000 users using Spark/Hadoop. Reduce the user 
 
 Please consult the documentation of [Spark_Mini_Project](https://github.com/FangMath/Spark_Mini_Project).
 
+## Related repos
+
+* [Spark_Mini_Project](https://github.com/FangMath/Spark_Mini_Project): the first spark practice
+
+* [ExpertOverflow_python](https://github.com/FangMath/ExpertOverflow_python) ExpertOverflow fisrt develpment with ipython notebook
+
+* [ExpertOverflow_flask](https://github.com/FangMath/ExpertOverflow_flask) Heroku app development using flask
+
+
 
 A better documentation is needed...
